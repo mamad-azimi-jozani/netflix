@@ -3,7 +3,7 @@
 
 function NavBar() {
   return (
-    <nav className="w-full  fixed z-40 flex items-center justify-between">
+    <nav className="w-full bg-white  fixed z-40 flex items-center justify-between">
         <div className="flex items-center ">
             <img 
             src="https://images.ctfassets.net/4cd45et68cgf/7LrExJ6PAj6MSIPkDyCO86/542b1dfabbf3959908f69be546879952/Netflix-Brand-Logo.png?w=700&h=456"
