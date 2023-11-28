@@ -1,5 +1,4 @@
-import HomeBanner from "./components/HomeBanner"
-import NavBar from "./components/NavBar"
+import HomePage from "./pages/HomePage"
 
 
 
@@ -7,8 +6,7 @@ import NavBar from "./components/NavBar"
 function App() {
   return (
     <div className="">
-      <NavBar />
-      <HomeBanner />
+      <HomePage />
     </div>
   )
 }

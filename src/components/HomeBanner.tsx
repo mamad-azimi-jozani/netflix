@@ -12,7 +12,7 @@ function HomeBanner() {
         <div className='absolute gap-5 top-0 flex items-center flex-col justify-center bg-opacity-40 bg-black h-full w-full'>
             <h1 className='text-white text-5xl font-bold'>hello world</h1>
             
-            <p className='text-white text-xl text-3xl'>
+            <p className='text-white text-3xl'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, veniam?
             </p>
 
